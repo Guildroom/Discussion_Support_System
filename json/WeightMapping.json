@@ -1,0 +1,227 @@
+[ 
+    {
+        "Name" : "Asus",
+        "Weight" :[
+            {
+                "Id" :"A1",
+                "Weight" : 2
+            },
+            {
+                "Id" :"A2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"B2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"D11",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D2",
+                "Weight" : 4
+            }
+        ]
+    },
+    {
+        "Name" : "Acer",
+        "Weight" :[
+            {
+                "Id" :"A1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"A2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"B2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"D11",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D2",
+                "Weight" : 3
+            }
+        ]
+    },
+    {
+        "Name" : "Lenovo",
+        "Weight" :[
+            {
+                "Id" :"A1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"A2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"B2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"C2",
+                "Weight" : 4
+            },
+            {
+                "Id" :"C3",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D11",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D2",
+                "Weight" : 3
+            }
+        ]
+    },
+    {
+        "Name" : "HP",
+        "Weight" :[
+            {
+                "Id" :"A1",
+                "Weight" : 1
+            },
+            {
+                "Id" :"A2",
+                "Weight" : 2
+            },
+            {
+                "Id" :"B1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"B2",
+                "Weight" : 4
+            },
+            {
+                "Id" :"B3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"D11",
+                "Weight" : 3
+            },
+            {
+                "Id" :"D2",
+                "Weight" : 4
+            }
+        ]
+    },
+    {
+        "Name" : "Sony",
+        "Weight" :[
+            {
+                "Id" :"A1",
+                "Weight" : 1
+            },
+            {
+                "Id" :"A2",
+                "Weight" : 1
+            },
+            {
+                "Id" :"B1",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B2",
+                "Weight" : 3
+            },
+            {
+                "Id" :"B3",
+                "Weight" : 3
+            },
+            {
+                "Id" :"C1",
+                "Weight" : 4
+            },
+            {
+                "Id" :"C2",
+                "Weight" : 4
+            },
+            {
+                "Id" :"C3",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D11",
+                "Weight" : 4
+            },
+            {
+                "Id" :"D2",
+                "Weight" : 4
+            }
+        ]
+    }
+]

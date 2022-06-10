@@ -1,0 +1,62 @@
+[
+    {
+        "Weight" : 4,
+        "Name" : "CPU",
+        "Type" : "CF",
+        "Id" : "A1"
+    },
+    {
+        "Weight" : 4,
+        "Name" : "GPU",
+        "Type" : "SF",
+        "Id" : "A2"
+    },
+    {
+        "Weight" : 4,
+        "Name" : "RAM",
+        "Type" : "CF",
+        "Id" : "B1"
+    },
+    {
+        "Weight" : 4,
+        "Name" : "Internal Memory",
+        "Type" : "CF",
+        "Id" : "B2"
+    },
+    {
+        "Weight" : 3,
+        "Name" : "Internal Type",
+        "Type" : "SF",
+        "Id" : "B3"
+    },
+    {
+        "Weight" : 4,
+        "Name" : "Display",
+        "Type" : "CF",
+        "Id" : "C1"
+    },
+    {
+        "Weight" : 3,
+        "Name" : "Webcam",
+        "Type" : "CF",
+        "Id" : "C2"
+    },
+    {
+        "Weight" : 3,
+        "Name" : "Audio",
+        "Type" : "SF",
+        "Id" : "C3"
+    },
+    {
+        "Weight" : 3,
+        "Name" : "Cell Baterai",
+        "Type" : "CF",
+        "Id" : "D1"
+    },
+    {
+        "Weight" : 3,
+        "Name" : "Daya Baterai",
+        "Type" : "SF",
+        "Id" : "D2"
+    }
+]
